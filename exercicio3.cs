@@ -3,7 +3,6 @@ using System;
 public class MainClass
 { 
     public static void GeraCandidatos() {
-    
       Console.WriteLine("|--------------------------|");
       Console.WriteLine("|     33 - José Couve      |");
       Console.WriteLine("|--------------------------|");
